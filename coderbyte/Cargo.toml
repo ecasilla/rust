@@ -1,0 +1,6 @@
+[package]
+name = "coderbyte"
+version = "0.1.0"
+authors = ["Ernie Casilla <ecasilla@icloud.com>"]
+
+[dependencies]
